@@ -1,0 +1,22 @@
+String (Metin) veri tipleri → str
+
+Numerik (Sayısal) veri tipleri → int, float, complex
+
+Sequence (Sıralama) veri tipleri → list, tuple, range
+
+Mapping (Dizi) veri tipleri → dict
+https://github.com/kawaiimantr/Python-Selenium-Kamp
+Set (Küme) veri tipleri → set, frozenset
+
+Boolean (Mantıksal) veri tipleri → bool
+
+
+Kodlama.io sitesinin anasayfa kısmında yazılı olan Kurslarım,Tüm Kurslar, Kariyer, Sık Sorulan Sorular yazılı olduğu yerler String veri türüdür.
+Yine anasayfanın devamında bulunan ve kurs içeriklerinin olduğu kutucukların altında bulunan %60-%50 gibi ifadeler integer veri türleridir.
+Kodlama.io sitesinin "Tüm Kurslar" sekmesinde bulunan bütün kurslar "Katogeri" seçeneğinin içinde "Programlama(7)" adı altında list veri türündedir.
+
+kariyerForm = True
+if(kariyerForm):
+    print("Lütfen formu doldurunuz.")
+else:
+    print("Zaten yanıt verdiniz.")
